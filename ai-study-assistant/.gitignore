@@ -1,0 +1,24 @@
+# AI Study Assistant
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+chroma_db/
+uploads/*
+!uploads/.gitkeep
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+venv/
+.venv/
+
+# Frontend
+node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
